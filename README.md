@@ -7,7 +7,7 @@ I'm a Digital Marketing Strategist by day and a C programming enthusiast by nigh
 - 🧠 Love puzzles! 
 - 🛠️ Maker at heart (love making things IRL and digitally)
 - 🏋️ Gym rat (love at first lift)
-- 🎮 Gamer (all platforms but PC is where its at)
+- 🎮 Gamer (all platforms but PC is where it's at)
 
 
 ## Skills & Tools
