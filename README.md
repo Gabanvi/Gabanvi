@@ -1,8 +1,10 @@
 # Hey, I'm Gabriela ✨
 
 I'm a Digital Marketing Strategist by day and a C programming enthusiast by night!  
+
 I started learning C in August 2024 with Codecademy, which led me to the challenging one-month bootcamp at School 42.
-These two experiences sparked an obsession 🤓, and now I'm excited to share my journey on TikTok [@Gabanvi](https://www.tiktok.com/@gabanvi) 😊.
+
+These two experiences sparked a bit of an obsession ... and now I'm having fun sharing my journey on TikTok [@Gabanvi](https://www.tiktok.com/@gabanvi) 😊.
 
 ## About Me
 - 💼 Entrepreneurial spirit (2 companies incorporated so far)
