@@ -23,9 +23,6 @@ I'm a Digital Marketing Strategist by day and a C programming enthusiast by nigh
 ## Featured Projects
 - [LeetCode Projects](https://github.com/Gabanvi/LeetCode-Projects): My journey in learning C through LeetCode challenges.
 
-## GitHub Stats
-![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabanvi&show_icons=true&theme=radical)
-
 ## Connect with Me
 - [TikTok](https://www.tiktok.com/@gabanvi)
 - [LinkedIn](https://www.linkedin.com/in/gabriela-antunes/)
