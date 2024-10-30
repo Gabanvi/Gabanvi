@@ -1,6 +1,7 @@
 # Hey, I'm Gabriela ✨
 
-I'm a Digital Marketing Strategist by day and a C programming enthusiast by night! Currently, I'm learning C and sharing my journey on TikTok at [@Gabanvi](https://www.tiktok.com/@gabanvi) 😊
+I'm a Digital Marketing Strategist by day and a C programming enthusiast by night! 
+Currently learning C and sharing my journey on TikTok at [@Gabanvi](https://www.tiktok.com/@gabanvi) 😊
 
 ## About Me
 - 💼 Entrepreneurial spirit (2 companies incorporated so far)
