@@ -3,9 +3,12 @@
 I'm a Digital Marketing Strategist by day and a C programming enthusiast by night! Currently, I'm learning C and sharing my journey on TikTok at [@Gabanvi](https://www.tiktok.com/@gabanvi) 😊
 
 ## About Me
-- 🕹 I enjoy working on LeetCode challenges in C.
-- 🎉 Co-host of the Co-Founders Hive Conference.
-- 🎶 Dance lover, especially jazz and hip-hop.
+- 💼 Entrepreneurial spirit (2 companies incorporated so far)
+- 🧠 Love puzzles! 
+- 🛠️ Maker at heart (love making things IRL and digitally)
+- 🏋️ Gym rat (love at first lift)
+- 🎮 Gamer (all platforms but PC is where its at)
+
 
 ## Skills & Tools
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
