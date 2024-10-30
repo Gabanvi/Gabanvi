@@ -26,10 +26,6 @@ I'm a Digital Marketing Strategist by day and a C programming enthusiast by nigh
 ## GitHub Stats
 ![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabanvi&show_icons=true&theme=radical)
 
-## Fun Facts
-- 🎶 I love all dance styles, especially jazz and hip-hop.
-- 🖥️ I enjoy exploring influencer marketing and gaming.
-
 ## Connect with Me
 - [TikTok](https://www.tiktok.com/@gabanvi)
 - [LinkedIn](https://www.linkedin.com/in/gabriela-antunes/)
