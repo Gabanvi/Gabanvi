@@ -1,4 +1,4 @@
-# Hi, I'm Gabriela Antunes 👋
+# Hey, I'm Gabriela Antunes ✨
 
 I'm a Digital Marketing Strategist by day and a C programming enthusiast by night! Currently, I'm learning C and sharing my journey on TikTok at [@Gabanvi](https://www.tiktok.com/@gabanvi) 😊
 
